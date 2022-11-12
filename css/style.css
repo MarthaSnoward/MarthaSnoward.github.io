@@ -553,14 +553,14 @@ section.gallery figure img
 {
     body section.gallery figure
     {
-        width:50%;
+        width:22%;
         margin:0;
         padding:0
     }
     
     body section.gallery figure:last-child
     {
-        width:50%
+        width:22%
     }
 }
 
