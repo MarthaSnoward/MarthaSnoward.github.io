@@ -249,7 +249,7 @@ section#content section.portfolio .project figure
 
 section#content section.portfolio .project figure img
 {
-    margin:0;
+    margin:10px;
     width:100%;
     display:block
 }
