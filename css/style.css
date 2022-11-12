@@ -76,7 +76,9 @@ header nav a:nth-child(3)
 
 header nav a:nth-child(3):hover
 {
-    border-color:transparent
+    border-color:  #00aced
+    /*<!--transparent-->*/
+
 }
 
 header nav a figure
